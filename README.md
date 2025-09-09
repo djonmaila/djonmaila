@@ -4,33 +4,22 @@ Passionné par le développement logiciel, je me spécialise dans la création d
 
 ---
 
-### 🌐 Social
-
-Connectons-nous et discutons de développement, de projets ou de nouvelles opportunités !
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Lien vers votre profil LinkedIn])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Lien vers votre profil Twitter (facultatif)])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=adobe&logoColor=white)]([Lien vers votre portfolio ou site web personnel (facultatif)])
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Votre adresse email])
-
----
-
 ### 💻 Tech Stack
 
 Voici les technologies avec lesquelles j'ai l'habitude de travailler :
 
 **Backend :**
-* **Langages :** `Java` `PHP`
-* **Frameworks :** `Spring Boot`
-* **Bases de données :** `MySQL`
+* **Langages :** Java, PHP
+* **Frameworks :** Spring Boot
+* **Base de données :** MySQL
 
 **Frontend :**
-* **Frameworks/Bibliothèques :** `React`
-* **Langages :** `JavaScript` `HTML` `CSS`
+* **Frameworks/Bibliothèques :** React
+* **Langages :** JavaScript, HTML, CSS
 
 **Outils & Autres :**
-* **Modélisation :** `StarUML`
-* **Versionnement :** `Git` `GitHub`
+* **Modélisation :** StarUML
+* **Versionnement :** Git, GitHub
 
 ---
 
@@ -61,8 +50,9 @@ J'aime mettre mes compétences en pratique sur des projets concrets. Voici quelq
 
 ---
 
-### 🎯 En quête d'opportunités
+### 📧 Contact
 
-Je suis actuellement à la recherche d'un [stage, alternance, premier emploi] dans le domaine du développement web, où je pourrais mettre à profit mes compétences pour résoudre des défis techniques et continuer à apprendre.
+Je suis actuellement à la recherche d'un **[stage, alternance, premier emploi]** dans le domaine du développement web. N'hésitez pas à me contacter pour toute opportunité ou pour discuter de mes projets.
 
----
+* **LinkedIn :** [Lien vers votre profil LinkedIn]
+* **Email :** [Votre adresse email]

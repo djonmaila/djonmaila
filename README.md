@@ -44,7 +44,7 @@ Voici quelques-uns de mes projets :
 ## 📫 Me contacter
 
 Tu veux collaborer ou discuter d’un projet ?  
-**Email** : `djonmaila@gmail.com`  
+**Email** : `djonmailapythagore@gmail.com`  
 **GitHub** : [github.com/djonmaila](https://github.com/djonmaila)
 
 ---

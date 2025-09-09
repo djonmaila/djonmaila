@@ -43,6 +43,7 @@ Voici quelques-uns de mes projets :
 - 🔹 [gestion_hopital](https://github.com/djonmaila/gestion_hopital)
 - 🔹 [Gestion_stock](https://github.com/djonmaila/Gestion_stock)
 - 🔹 [Gestion_Labo](https://github.com/djonmaila/Gestion_Labo)
+- 🔹 [Projet_de_fin_de_formation](https://github.com/djonmaila/projet_de_fin_de_formation)
 
 ---
 

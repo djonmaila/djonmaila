@@ -1,10 +1,10 @@
-# Salut, je suis Djonmaila 👋
+# Salut, je suis djonmaila 👋
 
 Passionné par le développement logiciel, je me spécialise dans la création d'applications web robustes et performantes. Mes compétences couvrent à la fois le développement backend et frontend, avec une expertise particulière dans l'écosystème Java.
 
 ---
 
-### Social
+### 🌐 Social
 
 Connectons-nous et discutons de développement, de projets ou de nouvelles opportunités !
 
@@ -15,7 +15,7 @@ Connectons-nous et discutons de développement, de projets ou de nouvelles oppor
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 Voici les technologies avec lesquelles j'ai l'habitude de travailler :
 
@@ -34,7 +34,7 @@ Voici les technologies avec lesquelles j'ai l'habitude de travailler :
 
 ---
 
-### Projets Personnels
+### 🚀 Projets Personnels
 
 J'aime mettre mes compétences en pratique sur des projets concrets. Voici quelques exemples de ce que j'ai réalisé. N'hésitez pas à les explorer !
 
@@ -48,20 +48,20 @@ J'aime mettre mes compétences en pratique sur des projets concrets. Voici quelq
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-[![Votre Statut GitHub](https://github-readme-stats.vercel.app/api?username=[Votre nom d'utilisateur GitHub]&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Votre Langages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=[Votre nom d'utilisateur GitHub]&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-###  GitHub Trophies
-
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=[Votre nom d'utilisateur GitHub]&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djonmaila&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonmaila&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-###  En quête d'opportunités
+### 🏆 GitHub Trophies
+
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=djonmaila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🎯 En quête d'opportunités
 
 Je suis actuellement à la recherche d'un [stage, alternance, premier emploi] dans le domaine du développement web, où je pourrais mettre à profit mes compétences pour résoudre des défis techniques et continuer à apprendre.
 

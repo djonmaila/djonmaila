@@ -10,6 +10,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=djonmaila" alt="GitHub Trophies">
 ---
+
 ## 🧰 Langages utilisés dans mes projets
 
 <p align="left">

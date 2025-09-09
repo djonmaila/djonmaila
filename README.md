@@ -7,6 +7,7 @@
 
 ---
 ##Mes trophés
+
 <img src="https://github-profile-trophy.vercel.app/?username=tadzo-morel" alt="GitHub Trophies">
 ---
 ## 🧰 Langages utilisés dans mes projets

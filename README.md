@@ -42,6 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=djonmaila&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djonmaila&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ## 📂 Projets récents

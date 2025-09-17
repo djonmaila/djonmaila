@@ -9,6 +9,9 @@
 ## Mes trophés
 
 <img src="https://github-profile-trophy.vercel.app/?username=djonmaila" alt="GitHub Trophies">
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=djonmaila&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 

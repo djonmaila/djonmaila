@@ -50,6 +50,12 @@
 
 ---
 
+## 📈 Coding Activity
+
+![Coding Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djonmaila&theme=tokyo-night&hide_border=true)
+
+---
+
 ## 📂 Projets récents
 
 Voici quelques-uns de mes projets :

@@ -11,9 +11,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ Autorise le bot à pousser sur ton dépôt
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Générer le serpent
         uses: Platane/snk@v3

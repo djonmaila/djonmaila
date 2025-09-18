@@ -56,6 +56,12 @@
 
 ---
 
+## 🐍 Snake animation
+
+![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📂 Projets récents
 
 Voici quelques-uns de mes projets :

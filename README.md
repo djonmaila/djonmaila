@@ -50,12 +50,6 @@
 
 ---
 
-## 📈 Coding Activity
-
-![Coding Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djonmaila&theme=tokyo-night&hide_border=true)
-
----
-
 ## 🐍 Snake animation
 
 ![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)

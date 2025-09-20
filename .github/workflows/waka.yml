@@ -1,5 +1,11 @@
 name: WakaTime Readme
 
+permissions:
+  contents: write
+  pull-requests: write
+  actions: read
+  issues: read
+
 on:
   schedule:
     - cron: "0 0 * * *" # tous les jours à minuit UTC

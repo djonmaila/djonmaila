@@ -10,6 +10,7 @@
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=djonmaila&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=djonmaila&theme=gruvbox&column=8&margin-w=5&no-frame=true&rank=SS,C,B,A)](https://github.com/ryo-ma/github-profile-trophy"/>
 </p>
 
 ---

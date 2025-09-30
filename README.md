@@ -6,6 +6,20 @@
 </p>
 
 ---
+
+## 📂 Projets récents
+
+Voici quelques-uns de mes projets :
+
+- 🔹 [Bank_Manager](https://github.com/djonmaila/Bank_Manager)
+- 🔹 [crud-user](https://github.com/djonmaila/crud-user)
+- 🔹 [Gestion_Clinique](https://github.com/djonmaila/Gestion_Clinique)
+- 🔹 [gestion_hopital](https://github.com/djonmaila/gestion_hopital)
+- 🔹 [Gestion_stock](https://github.com/djonmaila/Gestion_stock)
+- 🔹 [Gestion_Labo](https://github.com/djonmaila/Gestion_Labo)
+- 🔹 [Projet_de_fin_de_formation](https://github.com/djonmaila/projet_de_fin_de_formation)
+
+---
 ## Mes trophés
 
 <p align="left">
@@ -53,20 +67,6 @@
 ## 🐍 Snake animation
 
 ![Snake animation](https://raw.githubusercontent.com/djonmaila/djonmaila/output/github-contribution-grid-snake.svg)
-
----
-
-## 📂 Projets récents
-
-Voici quelques-uns de mes projets :
-
-- 🔹 [Bank_Manager](https://github.com/djonmaila/Bank_Manager)
-- 🔹 [crud-user](https://github.com/djonmaila/crud-user)
-- 🔹 [Gestion_Clinique](https://github.com/djonmaila/Gestion_Clinique)
-- 🔹 [gestion_hopital](https://github.com/djonmaila/gestion_hopital)
-- 🔹 [Gestion_stock](https://github.com/djonmaila/Gestion_stock)
-- 🔹 [Gestion_Labo](https://github.com/djonmaila/Gestion_Labo)
-- 🔹 [Projet_de_fin_de_formation](https://github.com/djonmaila/projet_de_fin_de_formation)
 
 ---
 

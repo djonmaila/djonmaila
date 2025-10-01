@@ -7,6 +7,14 @@
 
 ---
 
+## Mes trophés
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=djonmaila&theme=gruvbox&column=6&margin-w=6&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ## 📂 Projets récents
 
 Voici quelques-uns de mes projets :
@@ -18,13 +26,6 @@ Voici quelques-uns de mes projets :
 - 🔹 [Gestion_stock](https://github.com/djonmaila/Gestion_stock)
 - 🔹 [Gestion_Labo](https://github.com/djonmaila/Gestion_Labo)
 - 🔹 [Projet_de_fin_de_formation](https://github.com/djonmaila/projet_de_fin_de_formation)
-
----
-## Mes trophés
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=djonmaila&theme=gruvbox&column=6&margin-w=6&margin-h=10" alt="GitHub Trophies"/>
-</p>
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   Passionné par le développement backend, je conçois des applications robustes et bien structurées.  
-  J'aime particulièrement travailler avec Java et créer des systèmes complets pour la gestion (banques, hôpitaux, stocks, etc.).
+  J'aime particulièrement travailler avec Java et créer des systèmes complets pour la gestion (banques, hôpitaux, stocks, etc..).
 </p>
 
 ---

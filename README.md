@@ -56,5 +56,4 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: coming soon...
+- 📧 Email: djonmailapythagore@gmail.com

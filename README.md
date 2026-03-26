@@ -24,6 +24,12 @@
 
 ---
 
+### 🏆 Mes Trophées GitHub
+
+[![github contribution grid snake](https://github-profile-trophy.vercel.app/?username=djonmaila&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend

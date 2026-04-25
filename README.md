@@ -26,7 +26,7 @@
 
 ### 🏆 Mes Trophées GitHub
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=djonmaila)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=djonmaila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
